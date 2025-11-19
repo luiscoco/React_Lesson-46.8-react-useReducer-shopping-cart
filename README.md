@@ -135,6 +135,7 @@ Here is an overview of the project's file structure:
     -   **`index.js`**: The entry point for React.
     -   **`index.css`**: Global styles.
 -   **`public/`**: Static assets.
+    -   **`index.html`**: The main HTML file.
 -   **`package.json`**: Project dependencies and scripts.
 -   **`README.md`**: Project documentation.
 
