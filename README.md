@@ -123,19 +123,3 @@ The `ShoppingCart` component renders the product list and the cart items.
     ))}
     ```
 
-## Project Structure
-
-Here is an overview of the project's file structure:
-
-![Project Structure](project_structure.png)
-
--   **`src/`**: Contains the source code.
-    -   **`App.js`**: The main application component.
-    -   **`ShoppingCart.js`**: The shopping cart component and logic.
-    -   **`index.js`**: The entry point for React.
-    -   **`index.css`**: Global styles.
--   **`public/`**: Static assets.
-    -   **`index.html`**: The main HTML file.
--   **`package.json`**: Project dependencies and scripts.
--   **`README.md`**: Project documentation.
-
